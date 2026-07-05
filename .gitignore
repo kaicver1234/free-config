@@ -1,0 +1,9 @@
+# هستهٔ Xray در CI با get_xray.py دانلود می‌شه — commit نمی‌شه
+xray/
+
+# کش پایتون
+__pycache__/
+*.pyc
+
+# فایل‌های موقتِ تست
+tiksar_*.json

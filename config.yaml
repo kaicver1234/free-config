@@ -1,0 +1,57 @@
+# ============================================================
+#  Tiksar VPN — Config Tester (GitHub Actions)
+#  کانفیگ‌ها رو از منابع می‌گیره، اسم رو به «Tiksar vpn» عوض می‌کنه،
+#  با هستهٔ Xray تست پینگ می‌کنه، تکراری/مرده رو حذف و خروجی می‌سازه.
+# ============================================================
+
+# اسم جدیدی که روی همهٔ کانفیگ‌ها گذاشته می‌شه (قبل از تست).
+name: "Tiksar vpn"
+
+# منابع اشتراکی — همون منابعی که barry-far/V2ray-Config استفاده می‌کنه.
+# هر کدوم می‌تونه متن خام یا base64 (استاندارد/URL-safe) باشه؛ خودکار تشخیص داده می‌شه.
+sources:
+  - "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt"
+  - "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt"
+  - "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt"
+  - "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt"
+  - "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt"
+  - "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed"
+  - "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix"
+  - "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html"
+  - "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt"
+  - "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt"
+  - "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt"
+  - "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt"
+
+# ------------------- تست -------------------
+test:
+  # آدرسی که برای سنجش پینگ از طریق پروکسی بهش HEAD زده می‌شه.
+  test_url: "http://cp.cloudflare.com/generate_204"
+  # فقط کانفیگ‌هایی که پینگشون (ms) <= این باشه سالم حساب می‌شن.
+  # چون تست از دیتاسنتر GitHub (آمریکا/اروپا) انجام می‌شه پینگ‌ها پایینن؛
+  # سقف بالا نگه داشته شده تا فقط مرده‌ها حذف بشن.
+  max_ping_ms: 5000
+  # چند کانفیگ هم‌زمان تست بشن. رانر GitHub دو هسته‌ست ولی کار IO-bound
+  # (منتظر شبکه) هست پس این عدد می‌تونه بالاتر از تعداد هسته باشه.
+  concurrency: 24
+  # حداکثر زمان (ثانیه) برای هر probe.
+  timeout_sec: 6
+  # چند نمونه از هر کانفیگ گرفته بشه (کمترین به‌عنوان پینگ ثبت می‌شه).
+  samples: 3
+
+# ------------------- هستهٔ Xray -------------------
+xray:
+  # مسیر پوشهٔ هسته؛ get_xray.py باینری رو اینجا می‌ذاره. خود کد اسم درست
+  # (xray یا xray.exe) رو انتخاب می‌کنه.
+  dir: "xray"
+
+# ------------------- خروجی -------------------
+output:
+  # پوشهٔ ریشهٔ خروجی (نسبت به همین پوشه). "." یعنی همین‌جا.
+  dir: "."
+  # فایل کاملِ همهٔ سالم‌ها.
+  all_file: "All_Configs_Sub.txt"
+  # پوشهٔ تفکیک‌شده بر اساس پروتکل (vless/vmess/trojan/ss).
+  split_dir: "Splitted-By-Protocol"
+  # نسخهٔ base64 از فایل کامل (برای کلاینت‌هایی که ساب base64 می‌خوان).
+  base64_all: "Base64/All_Configs_base64_Sub.txt"

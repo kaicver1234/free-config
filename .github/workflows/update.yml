@@ -1,0 +1,41 @@
+name: Update & Test Configs
+
+permissions: write-all
+
+on:
+  workflow_dispatch:            # اجرای دستی از تب Actions
+  schedule:
+    - cron: "17 */2 * * *"      # هر ۲ ساعت (دقیقهٔ ۱۷ تا صف زمان‌بندی GitHub کمتر تأخیر بده)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download Xray core
+        run: python get_xray.py
+
+      - name: Fetch, rename, test & build
+        run: python run.py
+
+      - name: Commit & push results
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "Tiksar Bot"
+          author_email: "actions@users.noreply.github.com"
+          message: "🤖 Update & test configs — every 2h"
+          add: "All_Configs_Sub.txt Splitted-By-Protocol Base64"
+          push: true
