@@ -2,9 +2,3 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:27111?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=a68956&spx=/BJl0f3MxZgdYyYB#Tiksar%20vpn%20-%200201
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26657?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=f4b34559dd56&spx=/KFfG8SKWE2bkdl3#Tiksar%20vpn%20-%200200
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:27980?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=0718b1f02a&spx=/LDwcNrx3JeUAeEz#Tiksar%20vpn%20-%200202
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:30000?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=a68956&spx=/nctesNoRBmMFXBj#Tiksar%20vpn%20-%200203
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:52727?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=162666c3acca7a&spx=/YWIn3NIXieCvhqs#Tiksar%20vpn%20-%200205
-trojan://-----------BanV2ray------------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:48189?type=grpc&security=reality&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&sid=a68956&spx=/UCakiBT61RqYl2Q#Tiksar%20vpn%20-%200204
