@@ -2,8 +2,7 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/u1VfBHkmc18wVNP&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=0718b1f02a#Tiksar%20vpn%20-%200206
-trojan://---------BanV2ray--------@84.234.30.16:30000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nWxfnvqGhhTUnMV&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=162666c3acca7a#Tiksar%20vpn%20-%200207
-trojan://---------BanV2ray--------@84.234.30.16:27112?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/sRTt8wlsKNYUyW3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63#Tiksar%20vpn%20-%200205
-trojan://---------BanV2ray--------@84.234.30.16:26653?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/vx5yLH3y04CSOlq&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0#Tiksar%20vpn%20-%200204
-trojan://xhQCSjQiXn@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:61235?type=tcp&security=reality&headerType=http&path=/JKVPN&host=yahoo.com&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=/#Tiksar%20vpn%20-%203504
+trojan://---------BanV2ray--------@84.234.30.16:27981?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/u1VfBHkmc18wVNP&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=0718b1f02a#Tiksar%20vpn%20-%200201
+trojan://---------BanV2ray--------@84.234.30.16:30000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/nWxfnvqGhhTUnMV&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=162666c3acca7a#Tiksar%20vpn%20-%200202
+trojan://---------BanV2ray--------@84.234.30.16:27112?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/sRTt8wlsKNYUyW3&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63#Tiksar%20vpn%20-%203422
+trojan://---------BanV2ray--------@84.234.30.16:26653?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/vx5yLH3y04CSOlq&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0#Tiksar%20vpn%20-%200200
