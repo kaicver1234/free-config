@@ -2,6 +2,5 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?mode=gun&security=reality&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#Tiksar%20vpn%20-%200182
-trojan://------BanV2ray-----@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:19442?mode=gun&security=reality&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#Tiksar%20vpn%20-%200189
-trojan://-----BanV2ray----@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:20894?mode=gun&security=reality&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#Tiksar%20vpn%20-%200191
+trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#Tiksar%20vpn%20-%200367
+trojan://FdmECD7RGw@179.237.75.28:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=yahoo.com#Tiksar%20vpn%20-%200255
