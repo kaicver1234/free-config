@@ -2,5 +2,5 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://leyrDUg+GQXjQT/yjeKgI2T+7i8KTydMU0knNXf6pBc=@91.107.159.216:54774?security=none&type=tcp#Tiksar%20vpn%20-%203420
+trojan://leyrDUg+GQXjQT/yjeKgI2T+7i8KTydMU0knNXf6pBc=@91.107.159.216:54774?security=none&type=tcp#Tiksar%20vpn%20-%203408
 trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#Tiksar%20vpn%20-%200417
