@@ -2,10 +2,10 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:62115?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=chrome&spx=/8a462d1782ef2bf&type=grpc&sni=chi.yahoo.com&sid=8c1d45d1#Tiksar%20vpn%20-%200261
-trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#Tiksar%20vpn%20-%200266
-trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:62816?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#Tiksar%20vpn%20-%200275
-trojan://----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:62143?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=chrome&spx=/8a462d1782ef2bf&type=grpc&sni=chi.yahoo.com&sid=be66ca#Tiksar%20vpn%20-%200262
-trojan://leyrDUg+GQXjQT/yjeKgI2T+7i8KTydMU0knNXf6pBc=@91.107.159.216:54774?security=none&type=tcp#Tiksar%20vpn%20-%203412
-trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%200522
-trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#Tiksar%20vpn%20-%200456
+trojan://----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:62115?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=chrome&spx=/8a462d1782ef2bf&type=grpc&sni=chi.yahoo.com&sid=8c1d45d1#Tiksar%20vpn%20-%200229
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#Tiksar%20vpn%20-%200234
+trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:62816?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#Tiksar%20vpn%20-%200243
+trojan://leyrDUg+GQXjQT/yjeKgI2T+7i8KTydMU0knNXf6pBc=@91.107.159.216:54774?security=none&type=tcp#Tiksar%20vpn%20-%203423
+trojan://----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:62143?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=chrome&spx=/8a462d1782ef2bf&type=grpc&sni=chi.yahoo.com&sid=be66ca#Tiksar%20vpn%20-%200230
+trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203462
+trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#Tiksar%20vpn%20-%200439
