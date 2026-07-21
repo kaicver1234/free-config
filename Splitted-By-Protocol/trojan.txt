@@ -2,20 +2,20 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:11332?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=53661edd78#Tiksar%20vpn%20-%200282
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:11332?fp=chrome&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&type=grpc&sid=b9c6f2d116&sni=yahoo.com#Tiksar%20vpn%20-%200297
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:52079?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com#Tiksar%20vpn%20-%200301
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:52079?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=20cf08fae8#Tiksar%20vpn%20-%200286
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:55500?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=2616ed#Tiksar%20vpn%20-%200287
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:25238?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=b76d#Tiksar%20vpn%20-%200298
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:25238?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a#Tiksar%20vpn%20-%200283
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:43596?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a#Tiksar%20vpn%20-%200284
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:43596?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=53661edd78#Tiksar%20vpn%20-%200299
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:55500?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=534a35e1#Tiksar%20vpn%20-%200302
-trojan://d6Lkjm16l2J6hXmaRtLzGDyOge6lK7eNRugGiC7GNFw%3D@65.109.219.124:41393?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%202863
-trojan://FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw=@65.109.219.124:41393?security=none&headerType=none&type=tcp#Tiksar%20vpn%20-%200343
-trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203520
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:57711?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=112a#Tiksar%20vpn%20-%200288
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:57711?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com#Tiksar%20vpn%20-%200303
-trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:51104?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=534a35e1#Tiksar%20vpn%20-%200300
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:51104?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a#Tiksar%20vpn%20-%200285
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:11332?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=53661edd78#Tiksar%20vpn%20-%200298
+trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:11332?fp=chrome&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&type=grpc&sid=b9c6f2d116&sni=yahoo.com#Tiksar%20vpn%20-%200311
+trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:55500?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=534a35e1#Tiksar%20vpn%20-%200316
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:25238?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a#Tiksar%20vpn%20-%200299
+trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:25238?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=b76d#Tiksar%20vpn%20-%200312
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:43596?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a#Tiksar%20vpn%20-%200300
+trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:43596?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=53661edd78#Tiksar%20vpn%20-%200313
+trojan://FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw=@65.109.219.124:41393?security=none&headerType=none&type=tcp#Tiksar%20vpn%20-%200352
+trojan://d6Lkjm16l2J6hXmaRtLzGDyOge6lK7eNRugGiC7GNFw%3D@65.109.219.124:41393?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%202845
+trojan://u9WI2bLTQDiLWEvRMa3eRf4EYZULM2i7FXuO0EIib5U%3D@65.109.219.124:41393?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%202891
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:55500?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=2616ed#Tiksar%20vpn%20-%200303
+trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:52079?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com#Tiksar%20vpn%20-%200315
+trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203403
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:51104?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a#Tiksar%20vpn%20-%200301
+trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:51104?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=534a35e1#Tiksar%20vpn%20-%200314
+trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:57711?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=112a#Tiksar%20vpn%20-%200304
+trojan://------BanV2ray-------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:57711?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com#Tiksar%20vpn%20-%200317
