@@ -2,16 +2,17 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://-----------BanV2ray----------@37.156.45.60:438?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=4a76cd52#Tiksar%20vpn%20-%200248
-trojan://---------BanV2ray------------@179.237.74.104:361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=c9d8#Tiksar%20vpn%20-%200252
-trojan://---------BanV2ray------------@179.237.74.104:584?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea#Tiksar%20vpn%20-%200256
-trojan://-----------BanV2ray----------@37.156.45.60:242?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=9d50bfcefa#Tiksar%20vpn%20-%200243
-trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203400
-trojan://---------BanV2ray------------@179.237.74.104:177?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=b4#Tiksar%20vpn%20-%200250
-trojan://-----------BanV2ray----------@37.156.45.60:426?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=9f5e#Tiksar%20vpn%20-%200247
-trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=&type=grpc&sni=yahoo.com#Tiksar%20vpn%20-%200417
-trojan://xITFB2PCsp@179.237.75.217:2095?security=reality&pbk=QBLMKuBYOXkWxaZbDDx_5SG_1UA88RMoyiX7wBavLy8&host=yahoo.com&headerType=http&fp=chrome&spx=/------@VEGAAS_VPN-------@VEGAAS_VPN&type=tcp#Tiksar%20vpn%20-%200527
-trojan://-----------BanV2ray----------@37.156.45.60:297?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=db#Tiksar%20vpn%20-%200244
-trojan://---------BanV2ray------------@179.237.74.104:265?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=537b8f4ad4ddb860#Tiksar%20vpn%20-%200251
-trojan://---------BanV2ray------------@179.237.74.104:428?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=b4#Tiksar%20vpn%20-%200253
-trojan://-----------BanV2ray----------@37.156.45.60:376?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=a93d9b#Tiksar%20vpn%20-%200245
+trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=&type=grpc&sni=yahoo.com#Tiksar%20vpn%20-%200400
+trojan://---------BanV2ray------------@179.237.74.104:361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=c9d8#Tiksar%20vpn%20-%200240
+trojan://-----------BanV2ray----------@37.156.45.60:438?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=4a76cd52#Tiksar%20vpn%20-%200236
+trojan://---------BanV2ray------------@179.237.74.104:584?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea#Tiksar%20vpn%20-%200244
+trojan://-----------BanV2ray----------@37.156.45.60:242?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=9d50bfcefa#Tiksar%20vpn%20-%200231
+trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203430
+trojan://-----------BanV2ray----------@37.156.45.60:297?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=db#Tiksar%20vpn%20-%200232
+trojan://---------BanV2ray------------@179.237.74.104:265?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=537b8f4ad4ddb860#Tiksar%20vpn%20-%200239
+trojan://---------BanV2ray------------@179.237.74.104:177?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=b4#Tiksar%20vpn%20-%200238
+trojan://-----------BanV2ray----------@37.156.45.60:426?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=9f5e#Tiksar%20vpn%20-%200235
+trojan://xITFB2PCsp@179.237.75.217:2095?security=reality&pbk=QBLMKuBYOXkWxaZbDDx_5SG_1UA88RMoyiX7wBavLy8&host=yahoo.com&headerType=http&fp=chrome&spx=/------@VEGAAS_VPN-------@VEGAAS_VPN&type=tcp#Tiksar%20vpn%20-%200507
+trojan://---------BanV2ray------------@179.237.74.104:440?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea#Tiksar%20vpn%20-%200242
+trojan://---------BanV2ray------------@179.237.74.104:428?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=b4#Tiksar%20vpn%20-%200241
+trojan://-----------BanV2ray----------@37.156.45.60:376?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=a93d9b#Tiksar%20vpn%20-%200233
