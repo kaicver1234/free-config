@@ -3,11 +3,12 @@
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
 trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM%3D@91.107.139.186:30879?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%203083
-trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203691
-trojan://oq8I4Asc0g@94.228.162.57:13600?security=reality&sni=www.tesla.com&fp=chrome&pbk=2Q30b4vfqIAmh50tv63a7zhrrYdHlncre-ooK7Vtz1M&sid=9dbc497c9b1e76ae&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200481
+trojan://OD90375861@87.121.33.171:443?security=tls&sni=selected-bison.rooster465.autos#Tiksar%20vpn%20-%203555
+trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203701
 trojan://BKvz1AHxyv@94.228.162.57:14276?security=reality&sni=www.intel.com&fp=chrome&pbk=bnu9uRD1csljUwbra_hLJjyICUmg8yuXWHKRqh-9sns&sid=9c&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200315
-trojan://Yroi4t33l3@94.228.162.57:44514?security=reality&sni=www.oracle.com&fp=chrome&pbk=5wD_ESHd9zPL_Sh3Pfsffx5mW31ZHekd-CnQtqMkxhg&sid=5ea8703e407a&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200400
+trojan://oq8I4Asc0g@94.228.162.57:13600?security=reality&sni=www.tesla.com&fp=chrome&pbk=2Q30b4vfqIAmh50tv63a7zhrrYdHlncre-ooK7Vtz1M&sid=9dbc497c9b1e76ae&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200481
 trojan://UuSBh4nBfP@94.228.162.57:34607?security=reality&sni=www.icloud.com&fp=chrome&pbk=gJKFvilflB_PDTlZWatAqdHS4R-XEacvJQbaHL9u7Fw&sid=74&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200388
+trojan://Yroi4t33l3@94.228.162.57:44514?security=reality&sni=www.oracle.com&fp=chrome&pbk=5wD_ESHd9zPL_Sh3Pfsffx5mW31ZHekd-CnQtqMkxhg&sid=5ea8703e407a&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200400
 trojan://G8KrzJfzP5@176.124.222.180:15042?security=reality&sni=www.oracle.com&fp=chrome&pbk=RKnPBbXng6w4qKvq0Ym0YQTH3S_OfxmawYuWGWDL6VU&sid=c45f464a5e&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200320
-trojan://ABu1GpNzLe@176.124.222.180:13602?security=reality&sni=www.tesla.com&fp=chrome&pbk=B0z1ebSib6uGNq6YJ7ADH_-mZr72js4BpY37ejBD_GA&sid=fe&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200314
 trojan://MDM8rZFTNB@176.124.222.180:56079?security=reality&sni=www.oracle.com&fp=chrome&pbk=XtYHOuU7cayBxbbJtnAv_dWuz0-mxcp6lDd2AUCzxR8&sid=e8d96258&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200334
+trojan://ABu1GpNzLe@176.124.222.180:13602?security=reality&sni=www.tesla.com&fp=chrome&pbk=B0z1ebSib6uGNq6YJ7ADH_-mZr72js4BpY37ejBD_GA&sid=fe&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200314
