@@ -2,5 +2,12 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM%3D@91.107.139.186:30879?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%202884
-trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203435
+trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM%3D@91.107.139.186:30879?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%202967
+trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203532
+trojan://ptvZ8vjK9i@176.124.198.224:11400?security=reality&sni=aws.amazon.com&fp=chrome&pbk=Y9ek0L1QfGCEv3ov0iJpcIS8a5E8ryrthVrDiYZGfWU&sid=f5c33752&spx=/&type=xhttp&path=/&mode=auto&extra={#Tiksar%20vpn%20-%200462
+trojan://xJWnbfl7Qh@176.124.198.224:15105?security=reality&sni=www.intel.com&fp=chrome&pbk=QulGrKEE40VkJ932nVg21nbVNl3cSSz6AkrS2Zdl0kA&sid=3acf&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200489
+trojan://rQ01tec4rz@176.124.198.224:34705?security=reality&sni=www.oracle.com&fp=chrome&pbk=Ax9t58jzQw5_D3w0fFYXAfu6R9AYzek3-X40ZIU9LXg&sid=e2&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200465
+trojan://cZes88Q5y7@77.110.106.130:38636?security=reality&sni=www.sony.com&fp=chrome&pbk=54un9Md-TcOy5ygjSbWRZK-DgxNXCU8QjsrqfIb3hHw&sid=ec2f&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200387
+trojan://PO2I1SaNKk@77.110.106.130:52821?security=reality&sni=www.icloud.com&fp=chrome&pbk=Zt2OI7TQEzyRnuQ18CHFzjnSyDpLPXQi-z_PuzMBnhM&sid=5b55a6c7&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200346
+trojan://SYYNqV1JcxbIOdcV2i7fqw@mmlplp.jorzel.ir:19302?mode=stream-one&path=/path&security=reality&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&host=hostname&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=c6e19c434dc87df7#Tiksar%20vpn%20-%200348
+trojan://BtbprBhwOU@77.110.106.130:24622?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=2dQJDcmjDDemzSnPyHEgNAmxPdFvzJgYB49UH6IMeGI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.tesla.com&sid=3d0764e927#Tiksar%20vpn%20-%200292
