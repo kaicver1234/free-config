@@ -2,9 +2,5 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM%3D@91.107.139.186:30879?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%202871
-trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203447
-trojan://BtbprBhwOU@77.110.106.130:24622?sni=www.tesla.com&headerType=none&security=reality&pbk=2dQJDcmjDDemzSnPyHEgNAmxPdFvzJgYB49UH6IMeGI&spx=/&type=tcp&fp=chrome&sid=3d0764e927#Tiksar%20vpn%20-%200266
-trojan://zyPhCCrkGq@77.110.106.130:18612?security=reality&pbk=sM7Bx2YcqQejTTgf4tDSnQcpwy2F8CoPyXR1WXqAhSU&type=tcp&sid=4797b6fe70&spx=/&headerType=none&fp=chrome&sni=aws.amazon.com#Tiksar%20vpn%20-%200435
-trojan://cZes88Q5y7@77.110.106.130:38636?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=54un9Md-TcOy5ygjSbWRZK-DgxNXCU8QjsrqfIb3hHw&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=ec2f#Tiksar%20vpn%20-%200346
-trojan://reyp4rjFsd@77.110.106.130:12109?security=reality&pbk=jQzz-3qE1T7K4SVT54VtPIbWbW_FUb2LYDLXOHj1Mg4&type=tcp&sid=c3c89c0083186240&spx=/&headerType=none&fp=chrome&sni=www.intel.com#Tiksar%20vpn%20-%200423
+trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM%3D@91.107.139.186:30879?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%202813
+trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203378
