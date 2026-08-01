@@ -2,4 +2,8 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203458
+trojan://t1k5znTjT8@212.227.98.235:4433?path=/trojan&security=none&host=sp.cloudv.qzz.io&type=ws#Tiksar%20vpn%20-%203508
+trojan://MnAX1NIefj@62.60.148.98:39455?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&sni=www.tesla.com&fp=chrome&pbk=1mxwnO2tFiDx-V4wRfAOlOoi_UGcBj8_6jxnSbCXtAE&sid=aa6f01088dc9&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200331
+trojan://SAmzXv7K2X@62.60.148.98:35958?security=reality&sni=aws.amazon.com&fp=chrome&pbk=21g0wjiTmSuPEwQDEXpDWKVJaNCCvpTpxnw4fK5PHmA&sid=8aca7a49&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200336
+trojan://9Wkx7NAMZx@62.60.148.98:45666?security=reality&sni=aws.amazon.com&fp=chrome&pbk=2-BDtmLiHzcnaIaPncX_VcncVTKKY13zBvwkHn_cY1s&sid=de89bc6e60f54f&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200277
+trojan://7f2lnuboFJ@62.60.148.98:22597?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&sni=www.intel.com&fp=chrome&pbk=OKyWZTPzXNnypsWdRqA5OjRRj8CvNWnh-UDQdBPQNG0&sid=28d10c99eaa4&spx=/&type=tcp&headerType=none#Tiksar%20vpn%20-%200273
