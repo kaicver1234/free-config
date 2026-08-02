@@ -2,5 +2,5 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2----------------------------------------------------3.poki-pakipon.ir:62181?security=reality&sni=www.icloud.com&fp=chrome&pbk=jJ1ffSVccN3t1H9M2qfmXn38j0nDMjrzrIa5GKgXZl8&sid=fcfa77f4695abede&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----#Tiksar%20vpn%20-%200405
-trojan://B1S_3TTW3eNe8cyP4BbRye4n@89.34.230.135:57831?path=/7w6d00nm47&security=none&type=ws#Tiksar%20vpn%20-%203607
+trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2----------------------------------------------------3.poki-pakipon.ir:62181?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&sni=www.icloud.com&fp=chrome&pbk=jJ1ffSVccN3t1H9M2qfmXn38j0nDMjrzrIa5GKgXZl8&sid=fcfa77f4695abede&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----#Tiksar%20vpn%20-%200424
+trojan://B1S_3TTW3eNe8cyP4BbRye4n@89.34.230.135:57831?path=/7w6d00nm47&security=none&type=ws#Tiksar%20vpn%20-%203629
