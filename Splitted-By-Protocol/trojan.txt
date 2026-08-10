@@ -2,8 +2,8 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://2Q4nSpOBVHnUlNkXNHZBq7rLd8nwGlWb4Xd5XF/Job4=@65.109.208.236:55877?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%200290
-trojan://k2Go3Q6dN+fFOMdPuCKbPhnmez/2niJCRApdrrVYuws=@65.109.208.236:55877?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%200468
-trojan://qqxY1UefhE@138.124.92.103:57784?security=reality&sni=aws.amazon.com&fp=chrome&pbk=wK_qhCnQHtYrX_7v6-Hs16xd4m6goHFhluj-zowqvV4&sid=a8f7&spx=/&type=xhttp&path=/&mode=auto&extra={#Tiksar%20vpn%20-%200475
-trojan://jqTODRjQr1@138.124.92.103:49095?security=reality&sni=aws.amazon.com&fp=chrome&pbk=xv97ZtwvnqYKL4Ma7iR8eTfBgYPLYT0QTjcaoUXuWjM&sid=fdd089&spx=/&type=xhttp&path=/&mode=auto&extra={#Tiksar%20vpn%20-%200467
-trojan://aT8IM3oAvt@138.124.92.103:44453?security=reality&pbk=RAlMKlEpT_CeD5sWS_fCgtS3Tpfss3WCfJrHDbvx2BU&headerType=none&fp=chrome&spx=/&type=tcp&sni=aws.amazon.com&sid=8ef331069304bf#Tiksar%20vpn%20-%200406
+trojan://k2Go3Q6dN+fFOMdPuCKbPhnmez/2niJCRApdrrVYuws=@65.109.208.236:55877?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%200469
+trojan://2Q4nSpOBVHnUlNkXNHZBq7rLd8nwGlWb4Xd5XF/Job4=@65.109.208.236:55877?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%200291
+trojan://aT8IM3oAvt@138.124.92.103:44453?security=reality&pbk=RAlMKlEpT_CeD5sWS_fCgtS3Tpfss3WCfJrHDbvx2BU&headerType=none&fp=chrome&spx=/&type=tcp&sni=aws.amazon.com&sid=8ef331069304bf#Tiksar%20vpn%20-%200407
+trojan://qqxY1UefhE@138.124.92.103:57784?security=reality&sni=aws.amazon.com&fp=chrome&pbk=wK_qhCnQHtYrX_7v6-Hs16xd4m6goHFhluj-zowqvV4&sid=a8f7&spx=/&type=xhttp&path=/&mode=auto&extra={#Tiksar%20vpn%20-%200476
+trojan://jqTODRjQr1@138.124.92.103:49095?security=reality&sni=aws.amazon.com&fp=chrome&pbk=xv97ZtwvnqYKL4Ma7iR8eTfBgYPLYT0QTjcaoUXuWjM&sid=fdd089&spx=/&type=xhttp&path=/&mode=auto&extra={#Tiksar%20vpn%20-%200468
