@@ -2,8 +2,7 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos#Tiksar%20vpn%20-%203668
-trojan://JjiXs5x2/gDh7/dvgivEtflOc8QeiKoSmBRXDwhkItI=@91.107.139.186:24227?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%203812
-trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c%2BzRy5E6E%2B5cE%3D@91.107.139.186:24227?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%203347
-trojan://HKaPIfnhpx@185.126.236.181:23231?type=tcp&security=none#Tiksar%20vpn%20-%200344
-trojan://rCpYz0HZmH@65.109.183.211:11041?security=none&host=play-fe.googleapis.com&headerType=http&type=tcp#Tiksar%20vpn%20-%200443
+trojan://JjiXs5x2/gDh7/dvgivEtflOc8QeiKoSmBRXDwhkItI=@91.107.139.186:24227?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%203768
+trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c%2BzRy5E6E%2B5cE%3D@91.107.139.186:24227?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%203352
+trojan://rCpYz0HZmH@65.109.183.211:11041?security=none&host=play-fe.googleapis.com&headerType=http&type=tcp#Tiksar%20vpn%20-%200476
+trojan://HKaPIfnhpx@185.126.236.181:23231?type=tcp&security=none#Tiksar%20vpn%20-%200343
