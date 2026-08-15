@@ -2,3 +2,4 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
+trojan://bbe734f4-3b51-40d6-8bf7-1c9216eba283@185.246.131.170:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&path=/&host=amp-api-edge.apps.apple.com&security=none#Tiksar%20vpn%20-%200459
