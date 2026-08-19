@@ -2,3 +2,5 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
+trojan://y9vjyHqRS8OdLamNm7nBI-AmASb2EuEc@peo2.awexio.ir:2020?security=none&host=msedge.b.tlu.dl.delivery.mp.microsoft.com&headerType=http&type=tcp#Tiksar%20vpn%20-%200528
+trojan://21E_5T2fGm-vzDku_aw2hvA93rkl1Rgj@peo2.awexio.ir:2020?security=none&type=tcp&headerType=http&path=/&host=msedge.b.tlu.dl.delivery.mp.microsoft.com#Tiksar%20vpn%20-%200287
