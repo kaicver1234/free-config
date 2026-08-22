@@ -2,4 +2,5 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://q-9wViLXkoZWQua9YT7BWoDTC9GQzqR2@167.150.100.81:29842?type=ws&security=none&path=/t3kn1hln5l#Tiksar%20vpn%20-%200439
+trojan://humanity@104.16.73.213:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Tiksar%20vpn%20-%203319
+trojan://q-9wViLXkoZWQua9YT7BWoDTC9GQzqR2@167.150.100.81:29842?type=ws&security=none&path=/t3kn1hln5l#Tiksar%20vpn%20-%203964
