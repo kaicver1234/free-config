@@ -2,5 +2,4 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://CJ4fBUazRDFd62OxsdClTw==@212.192.210.192:14078?type=ws&security=none&path=/#Tiksar%20vpn%20-%200301
-trojan://UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN@104.253.175.248:41161?security=reality&pbk=fGiy6GU6FjQXWNzUVpW3gWz3yvrERV8ovGajJc9rgmM&headerType=none&fp=chrome&spx=/c986d55f990116e&type=tcp&sni=www.cloudflare.com&sid=a3f3ba2e#Tiksar%20vpn%20-%200341
+trojan://UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN@104.253.175.248:41161?security=reality&pbk=fGiy6GU6FjQXWNzUVpW3gWz3yvrERV8ovGajJc9rgmM&headerType=none&fp=chrome&spx=/c986d55f990116e&type=tcp&sni=www.cloudflare.com&sid=a3f3ba2e#Tiksar%20vpn%20-%200383
