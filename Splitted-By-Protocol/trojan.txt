@@ -2,4 +2,3 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://412557adf94c42c8be61b3457ce622d7@star.starnick2027.ir:56996?path=/?ed=1024&security=none&host=api.steampowered.com&type=ws#Tiksar%20vpn%20-%200278
