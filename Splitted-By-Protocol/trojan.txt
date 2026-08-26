@@ -2,4 +2,4 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://parsconn_bot@144.225.65.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&host=dictionary.cambridge.org&headerType=http&type=tcp#Tiksar%20vpn%20-%203707
+trojan://parsconn_bot@144.225.65.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&host=dictionary.cambridge.org&headerType=http&type=tcp#Tiksar%20vpn%20-%203698
