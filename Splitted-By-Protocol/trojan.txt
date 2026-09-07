@@ -2,5 +2,5 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://MiTiVPN@146.75.0.242:80?security=none#Tiksar%20vpn%20-%204200
+trojan://MiTiVPN@146.75.0.242:80?security=none#Tiksar%20vpn%20-%204268
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?fp=&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&security=reality&sid=0d12eb289946de9b&sni=updates.cdn-apple.com#Tiksar%20vpn%20-%200334
