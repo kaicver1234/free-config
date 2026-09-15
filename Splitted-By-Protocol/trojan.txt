@@ -2,7 +2,6 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://eowr5vwm32wu3473@130.185.123.21:1819?security=none&headerType=&type=tcp#Tiksar%20vpn%20-%200343
-trojan://MiTiVPN@146.75.0.242:80?security=none#Tiksar%20vpn%20-%204373
-trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#Tiksar%20vpn%20-%200305
-trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#Tiksar%20vpn%20-%200304
+trojan://eowr5vwm32wu3473@130.185.123.21:1819?type=tcp&security=none&headerType=none#Tiksar%20vpn%20-%200338
+trojan://MiTiVPN@146.75.0.242:80?security=none#Tiksar%20vpn%20-%204388
+trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#Tiksar%20vpn%20-%200296
