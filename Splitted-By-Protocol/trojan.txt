@@ -2,4 +2,6 @@
 #profile-update-interval: 2
 #support-url: https://t.me/tiksar_vpn
 #profile-web-page-url: https://t.me/tiksar_vpn
-trojan://MiTiVPN@146.75.0.242:80?security=none#Tiksar%20vpn%20-%204382
+trojan://MiTiVPN@146.75.0.242:80?security=none#Tiksar%20vpn%20-%204451
+trojan://e016d072-ed97-40d4-a83f-04c00f8df2a5@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#Tiksar%20vpn%20-%200322
+trojan://257b0378-01c9-4ded-836d-f94df60bd19c@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#Tiksar%20vpn%20-%200276
